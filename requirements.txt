@@ -1,0 +1,14 @@
+﻿numpy
+pandas
+librosa
+matplotlib
+scikit-learn
+soundfile
+tqdm
+requests
+audiomentations
+torch
+tensorflow
+scipy
+jupyter
+ipykernel
